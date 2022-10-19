@@ -1,9 +1,15 @@
 <h1>:globe_with_meridians: Hello, World! I'm Christine :hibiscus:</h1>
-Welcome to my Github
+<img src="https://user-images.githubusercontent.com/59518411/196724336-81951792-418b-4d2c-a25d-bb550d142bbe.png" height="300" align="right">
 
-<img src="https://user-images.githubusercontent.com/59518411/196534741-03b30e21-5739-4e25-91bc-9ddb9163c368.jpg" height="300"><img src="https://user-images.githubusercontent.com/59518411/196535822-c7a96324-775d-4566-9910-89b3b61b636b.jpg" height="300">
+- ⌨ I'm a Full-Stack Software Engineer
+- 🔭 I’m currently working on ...Personal Portfolio
+- 🌱 I’m currently learning ...Back End, Algorithms & Data Structures
 
-<h1> Tech Stack </h1>
+<h2>🍀Connect with me</h2>
+
+<a href='https://www.linkedin.com/in/l-christine/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<h2>:sparkler:  Tech Stack </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,8 +19,11 @@ Welcome to my Github
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+
 <!--
 **L-Christine/L-Christine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://unicode.org/emoji/charts/full-emoji-list.html
 
 Here are some ideas to get you started:
 
@@ -26,5 +35,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-:sparkler: 
 -->
