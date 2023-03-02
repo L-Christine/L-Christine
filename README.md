@@ -3,7 +3,7 @@
 
 - ⌨ I'm a Full-Stack Software Engineer
 - 🔭 I’m currently working on ...Personal Portfolio
-- 🌱 I’m currently learning ...Back End, Algorithms & Data Structures
+- 🌱 I’m currently learning ...Front End, Back End, Algorithms & Data Structures
 
 <h2>🍀Connect with me</h2>
 
